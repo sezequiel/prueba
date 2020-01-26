@@ -1,0 +1,38 @@
+  @media only screen and  (min-width:  0px) { 
+    .sidenav{
+    width: max-content;
+   }
+   }
+  
+   @media only screen and  (min-width:  576px) { 
+    .sidenav{
+    width: max-content;
+   }
+   }
+  
+  
+   @media only screen and  (min-width: 768px) { 
+    .sidenav{
+    width: max-content;
+   }
+  
+   }
+   @media only screen and (min-width: 992px) {
+    .sidenav{
+    display:none;
+    }
+
+    }
+  
+  
+  @media only screen and (min-width: 1200px) {
+    .sidenav{
+      visibility: hidden;
+    }
+   
+    }
+
+
+   .altura { 
+    height: 350px;
+    }
